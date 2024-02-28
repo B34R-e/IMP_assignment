@@ -1,0 +1,78 @@
+{
+  "PersonalInformation": {
+    "name": "Cliffton Jhed Saldavia",
+    "phone": "+63 999 827 2647",
+    "email": "jhedsaldavia@gmail.com"
+  },
+  "Degree": ["BS in Computer Programming - Sagay Computer Institute - 2009"],
+  "Experience": [
+    "IT Helpdesk L2 - HappierIT (MSP) - Feb 2021 - Feb 2023",
+    "Technical Support Representative - Google Philippines - March 2019 - March 2021",
+    "IT Technician - Emir Private Affair Office - June 2017 - January 2018",
+    "Customer Service Representative - VXI Holdings - June 2016 - June 2017",
+    "Helpdesk - Saudi Binladin Group of Company - Nov 2013 - May 2016",
+    "Data Encoder - King Fahad Medical City Hospital - June 2009 - August 2011",
+    "Mobile Technician - Alwaili Mobile Repair Shop - Oct 2015 - April 2016",
+    "Home Service Laptop/PC Technician - Freelance - June 2009 - Present"
+  ],
+  "TechnicalSkills": [
+    "Remote Desktop Connections",
+    "Configuring Windows Active Directory (Windows 2012 & 16)",
+    "Active Directory Account creation, unlock and password reset & disabling/enabling account",
+    "Managing Users in M365",
+    "Windows Server 2006-2019 administration and Exchange Administration",
+    "Customer Service",
+    "Experienced Graphics Designer (Photoshop CS6)",
+    "Database Management and Forms in VB.Net & Visual Basic, HTML & CSS",
+    "Data Entry",
+    "Data Mining",
+    "Social Media Management",
+    "Advanced Microsoft Office (PowerPoint, Excel & Word)",
+    "Troubleshooting No Boot, No Internet, No Sound, No Video Issue",
+    "Troubleshooting Computer hardware and software devices for Windows 7 - 10",
+    "Troubleshooting Printer Connectivity issues",
+    "Configuring port forwarding (TCP, UDP)",
+    "VPN Setup",
+    "Configuring Printer, File & Folder Sharing",
+    "Troubleshooting LAN and WAN (TCP, IP, Subnetting and DNS)",
+    "VB.Net Database for HR, IT, IT Help-desk",
+    "Online Windows Reformat using Windows IPxe"
+  ],
+  "Responsibilities": [
+    "Identifying issues and resolving them in a timely manner",
+    "Troubleshooting computer hardware and software issues",
+    "Windows Server administration and Exchange Administration",
+    "VPN setup",
+    "Configuring Outlook Shared Mailbox, Delegation, Rules, and Spam Filter",
+    "New employee setup and termination",
+    "Administering and maintaining end user accounts, password resets/unlocks, and Office365 email setup and support",
+    "Active Directory account creation, password reset, and enable/disable user's account",
+    "Troubleshooting PC/Laptop issues",
+    "Receiving and resolving calls from customers",
+    "Building a good connection with customers",
+    "Handling calls and solving issues in a timely manner",
+    "Troubleshooting LAN, WAN, DHCP, Port forwarding, and DNS",
+    "Diagnosing faulty mobiles and replacing parts",
+    "Troubleshooting no boot, no sound, no internet, no video issues",
+    "Diagnosing and replacing faulty laptop parts",
+    "Troubleshooting printer connectivity issues",
+    "Creating and maintaining preventive and corrective maintenance",
+    "Maintaining network connectivity issues and computer hardware and software stability",
+    "Encoding items in the Property Department",
+    "Updating database",
+    "Maintaining accuracy and speed in pressure"
+  ],
+  "Certificates": [],
+  "SoftSkills": [
+    "Strong convincing techniques",
+    "Good communication skills",
+    "Problem-solving",
+    "Critical thinking"
+  ],
+  "Comment": "The candidate has a diverse range of experience in IT support and customer service roles. They have strong technical skills in various areas such as Windows Server administration, Active Directory, troubleshooting hardware and software issues, and database management. The candidate also has experience in graphics design and social media management. Their soft skills include strong communication and problem-solving abilities. With their experience and skills, the candidate would be suitable for roles such as IT Helpdesk Support, Technical Support Representative, or Customer Service Representative.",
+  "JobRecommend": [
+    "IT Helpdesk Support",
+    "Technical Support Representative",
+    "Customer Service Representative"
+  ]
+}

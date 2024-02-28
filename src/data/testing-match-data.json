@@ -1,0 +1,19 @@
+{
+  "candidate_name": "DUONG PHUC HAU HEHEHE",
+  "candidate_phone": "0877757745",
+  "certification_comment": "Candidate does not have the required Certified Business Analysis Professional (CBAP) certificate.",
+  "certification_score": "0",
+  "cv_name": ".DUONG_PHUC_HAU_FresherJava",
+  "education_comment": "Candidate does not have a Bachelor's degree in Business Administration, Finance, or Economics.",
+  "education_score": "0",
+  "experiment_comment": "Candidate has some experience as a business analyst and in data analysis and reporting.",
+  "experiment_score": "50",
+  "job_name": "Sample business analyst job description",
+  "recommended_jobs": "['Back-End Developer', 'Full-Stack Developer', 'Java Developer']",
+  "responsibilities_comment": "Candidate has some responsibilities that are relevant to the position.",
+  "responsibilities_score": "20",
+  "soft_skills_comment": "Candidate has good communication skills and the ability to work in a team.",
+  "soft_skills_score": "75",
+  "technical_skills_comment": "Candidate has some technical skills relevant to the position.",
+  "technical_skills_score": "50"
+}

@@ -1,0 +1,9 @@
+.process-image-container {
+  display: flex;
+  column-gap: 70px;
+}
+
+.form-control {
+  width: 100px;
+  margin-bottom: 20px;
+}
